@@ -1,0 +1,7 @@
+C:\Users\ы\source\repos\13.05\1 в\bin\Debug\1 в.exe.config
+C:\Users\ы\source\repos\13.05\1 в\bin\Debug\1 в.exe
+C:\Users\ы\source\repos\13.05\1 в\bin\Debug\1 в.pdb
+C:\Users\ы\source\repos\13.05\1 в\obj\Debug\1 в.csprojAssemblyReference.cache
+C:\Users\ы\source\repos\13.05\1 в\obj\Debug\1 в.csproj.CoreCompileInputs.cache
+C:\Users\ы\source\repos\13.05\1 в\obj\Debug\1 в.exe
+C:\Users\ы\source\repos\13.05\1 в\obj\Debug\1 в.pdb

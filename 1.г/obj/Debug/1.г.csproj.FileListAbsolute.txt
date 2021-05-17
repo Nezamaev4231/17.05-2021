@@ -1,0 +1,6 @@
+C:\Users\ы\source\repos\13.05\1.г\bin\Debug\1.г.exe.config
+C:\Users\ы\source\repos\13.05\1.г\bin\Debug\1.г.exe
+C:\Users\ы\source\repos\13.05\1.г\bin\Debug\1.г.pdb
+C:\Users\ы\source\repos\13.05\1.г\obj\Debug\1.г.csproj.CoreCompileInputs.cache
+C:\Users\ы\source\repos\13.05\1.г\obj\Debug\1.г.exe
+C:\Users\ы\source\repos\13.05\1.г\obj\Debug\1.г.pdb

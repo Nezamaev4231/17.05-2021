@@ -1,0 +1,7 @@
+C:\Users\ы\source\repos\13.05\3з\bin\Debug\3з.exe.config
+C:\Users\ы\source\repos\13.05\3з\bin\Debug\3з.exe
+C:\Users\ы\source\repos\13.05\3з\bin\Debug\3з.pdb
+C:\Users\ы\source\repos\13.05\3з\obj\Debug\3з.csprojAssemblyReference.cache
+C:\Users\ы\source\repos\13.05\3з\obj\Debug\3з.csproj.CoreCompileInputs.cache
+C:\Users\ы\source\repos\13.05\3з\obj\Debug\3з.exe
+C:\Users\ы\source\repos\13.05\3з\obj\Debug\3з.pdb
